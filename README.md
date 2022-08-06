@@ -193,3 +193,6 @@ def gameloop():
     pygame.quit()
     quit()
 welcome()
+![full_intro](https://user-images.githubusercontent.com/106584386/183259598-e0b0dced-f8d2-4ead-b548-45a0a1d269bb.png)
+![Outroa_for_snakegame](https://user-images.githubusercontent.com/106584386/183259604-60a4de0d-4c45-4713-b6f1-74f0b5f3e715.png)
+![pexels-sebastiaan-stam-1097456](https://user-images.githubusercontent.com/106584386/183259607-b63aed87-f543-4c6f-8b8c-e7fab5dbc708.jpg)
